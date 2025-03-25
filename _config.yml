@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hashem.jpg"
+  avatar           : "hashem.png"
   name             : "Hashem Amireh"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Chapel Hill, NC"
   employer         : "UNC Chapel Hill"
   uri              : # URL
-  email            : "hamireh@unc.edy" 
+  email            : "hamireh@unc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
