@@ -15,7 +15,7 @@ Work-in-progress
 
 *This paper examines the performance of Q-learning algorithms in a "winner-take-all" pricing environment, such as the Amazon Buybox. Motivated by the increasing use of algorithms for pricing and the potential for collusion, this paper makes two contribu- tions. First, it investigates whether collusive pricing trends observed in previous literature persist even in a setting designed to promote price competition, like the Buybox. Second, it proposes a refinement to the standard epsilon-greedy Q-learning algorithm called Localized Epsilon- Greedy Q-learning, where price exploration is focused around the cur- rent best price estimate. Through simulations, I demonstrate that the Buybox mechanism does not prevent collusive pricing and that local- ized exploration can lead to faster convergence to the monopoly price and higher profits for firms compared to the traditional epsilon-greedy approach.*
 
-[Download Paper](https://hashemamireh.github.io/files/ai_collusion.pdf)
+[Download Paper](https://hashemamireh.github.io/files/ai_collusion.pdf) | [Code](https://github.com/hashemamireh/ai-pricing-amazon-boybox-simulation)
 
 
 ### Estimating "Reverse Payments" in Pay-for-Delay Settlements
