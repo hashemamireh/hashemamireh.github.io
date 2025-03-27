@@ -13,7 +13,7 @@ Instructor
 
 ### ECON445: Industrial Organization
 
-[Course Evaluation](https://hashemamireh.github.io/files/course_eval.pdf) | [Syllabus](https://hashemamireh.github.io/files/ECON445_Syl_Spring24.pdf)
+[Course Evaluation](https://hashemamireh.github.io/files/course_eval.pdf) \| [Syllabus](https://hashemamireh.github.io/files/ECON445_Syl_Spring24.pdf)
 
 For this class, when going over problem sets after they are due, I cold called students to come to the board and do the problems (inspired by the wonderful Prof. Thomas Knight at UF during my undergrad). I developed the simple tool below to randomize who is called to the board (and weigh probabilities based on who went already) and to keep track of who has gone.
 
