@@ -1,5 +1,5 @@
 ---
-permalink: /research
+permalink: /research/
 title: "Research"
 #author_profile: true
 redirect_from: 
@@ -20,7 +20,7 @@ Work-in-progress
 
 ### Estimating "Reverse Payments" in Pay-for-Delay Settlements
 
-So called pay-for-delay deals have been the subject of scrutiny by regulators, courts, legal-scholars, and economists. How- ever, the Supreme Court ruled that in order for a pay-for-delay deal to be anti-competitive, plaintiffs must demonstrate that there is a "large" and "unexplained" payment. However, many pay-for-delay deals have shifted away from cash payments towards business deals that heavily favor the generic entrant. Therefore, being able to estimate the value of these reverse payment deals is crucial. This paper proposes a method for estimating the value of these payments using event study abnormal returns.
+*So called pay-for-delay deals have been the subject of scrutiny by regulators, courts, legal-scholars, and economists. How- ever, the Supreme Court ruled that in order for a pay-for-delay deal to be anti-competitive, plaintiffs must demonstrate that there is a "large" and "unexplained" payment. However, many pay-for-delay deals have shifted away from cash payments towards business deals that heavily favor the generic entrant. Therefore, being able to estimate the value of these reverse payment deals is crucial. This paper proposes a method for estimating the value of these payments using event study abnormal returns.*
 
 [Download Paper](https://hashemamireh.github.io/files/reverse_payments.pdf)
 
