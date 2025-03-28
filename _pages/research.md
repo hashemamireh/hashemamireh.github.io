@@ -2,9 +2,9 @@
 permalink: /research/
 title: "Research"
 #author_profile: true
-#redirect_from: 
+redirect_from: 
 #  - /research/
-#  - /research.html
+  - /research.html
 ---
 
 Work-in-progress
