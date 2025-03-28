@@ -17,6 +17,7 @@ Researh interests
 - Platforms
   - Amazon BuyBox allocation.
 - ML/AI Pricing Algorithms
-- Intellectual Property (specifically pharmacuetical patents).
+- Intellectual Property and Innovation.
+  - Pharmaceutical patents. 
 - Entry
   - Pay-for-delay (reverse payments deals)
